@@ -1,0 +1,20 @@
+@import "/style/meta-shoelace.css";
+
+html, body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+header {
+	display: grid;
+	grid-template-columns: 30px 1fr 30px;
+	justify-items: center;
+	align-items: center;
+	align-content: center;
+	background: #aaa;
+	height: 35px;
+}
+
+article {
+	padding: 10px;
+}
