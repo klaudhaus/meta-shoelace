@@ -6,6 +6,10 @@
 	font-size: 20px;
 }
 
+.kh-meta-shoelace-top-menu sl-icon.kh-trigger {
+	font-size: 24px;
+}
+
 .kh-meta-shoelace-top-menu sl-dropdown sl-menu {
 	color: var(--sl-color-primary-15);
 	max-height: 90vh;

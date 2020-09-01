@@ -15,7 +15,7 @@ export function topMenu ({
 }) {
   return html`
     <sl-dropdown class="kh-meta-shoelace-top-menu">
-      <sl-icon name=${icon} slot="trigger"></sl-icon>
+      <sl-icon name=${icon} slot="trigger" class="kh-trigger"></sl-icon>
       <sl-menu>
         ${items.map(menuItem)}
       </sl-menu>

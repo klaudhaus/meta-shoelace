@@ -1,14 +1,14 @@
 {
   "name": "@klaudhaus/meta-shoelace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shoelace Meta-Components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":  "es-dev-server --watch --open sample/index.html --node-resolve"
+    "dev": "es-dev-server --watch --open sample/index.html --node-resolve"
   },
   "author": "tstewart@klaudhaus.com",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "@shoelace-style/shoelace": "^2.0.0-beta.16",
     "es-dev-server": "^1.57.4",
