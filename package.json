@@ -1,6 +1,6 @@
 {
   "name": "@klaudhaus/meta-shoelace",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Shoelace Meta-Components",
   "main": "index.js",
   "scripts": {
